@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+    <AddIn Type="Command">
+		<Name>Crop</Name>
+		<Assembly>Crop.dll</Assembly>
+		<AddInId>1105ca9f-30ce-4ad1-8cfe-0ad66cd25ebf</AddInId>
+		<FullClassName>Crop.Main</FullClassName>
+		<Text>Crop</Text>
+		<Description>Tool used to crop around an element in multiple views</Description>
+		<VendorId>QuinnP</VendorId>
+		<VendorDescription>Quinn Parrott, github.com/parrottq/RevitPrint</VendorDescription>
+	</AddIn>
+</RevitAddIns>
